@@ -1,0 +1,5 @@
+int64 num # goal
+---
+int64 sum # result
+---
+float64 progress # freeback
